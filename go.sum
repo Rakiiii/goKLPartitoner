@@ -4,6 +4,8 @@ github.com/Rakiiii/goBoolMatrix v0.1.2 h1:Pn3NdEgu8tV9BZ88dej5OokHE5Rj6LxRRnsg2K
 github.com/Rakiiii/goBoolMatrix v0.1.2/go.mod h1:pM30IPgEAv/W+/icjlUR0C5y4lU7ck4WnXOpIuOFae8=
 github.com/Rakiiii/goGraph v0.1.0 h1:gnyzVXZXuKxGsy7MBOdoWoV1NC0P6xx8FHrbSk4rA6o=
 github.com/Rakiiii/goGraph v0.1.0/go.mod h1:bYAV6bGI3W/Q2pbO8wpCVywSbfjNNbvQ41WEdop3YAI=
+github.com/Rakiiii/goGraph v0.1.1 h1:fKxX4wNyBvdpw10VBWJ83RsFfiGTtb1PEuzfX0c4F0Q=
+github.com/Rakiiii/goGraph v0.1.1/go.mod h1:bYAV6bGI3W/Q2pbO8wpCVywSbfjNNbvQ41WEdop3YAI=
 github.com/Rakiiii/goGraphPartitionLib v0.1.4/go.mod h1:hj/pPwmRHLBqiOAQxuVqeOpTL3xPj3Hv9N+zdjjPY4o=
 github.com/Rakiiii/goKLPartition v0.0.1 h1:LLAq+btwElhIYL900Vo6wvf7EQXGl7pnbyDOSuXsSWY=
 github.com/Rakiiii/goKLPartition v0.0.1/go.mod h1:ibp1t8Nhgm5pN6lM0TYNCqNPpfAU9o+2fsLmOc9mW+w=
@@ -11,6 +13,12 @@ github.com/Rakiiii/goKLPartition v0.1.0 h1:uEk6fD/lW3r7AMOu66Vb75VmihRohWiBvbvPn
 github.com/Rakiiii/goKLPartition v0.1.0/go.mod h1:ibp1t8Nhgm5pN6lM0TYNCqNPpfAU9o+2fsLmOc9mW+w=
 github.com/Rakiiii/goKLPartition v0.1.1 h1:tVDdIToQxXmKgsdxg1ywzfngaxvKDwYx42aSRBidBWo=
 github.com/Rakiiii/goKLPartition v0.1.1/go.mod h1:ibp1t8Nhgm5pN6lM0TYNCqNPpfAU9o+2fsLmOc9mW+w=
+github.com/Rakiiii/goKLPartition v0.1.2 h1:5bhNI9ArezdXaeZ6TuWfbal9Vfkpk258GSq16qceQT8=
+github.com/Rakiiii/goKLPartition v0.1.2/go.mod h1:8tGvNg2acNkqbkr1V8yNOBPt6zDcxma/+VC9KTLRFn8=
+github.com/Rakiiii/goKLPartition v0.1.3 h1:KKvxeEezb/a3vxEpbsQU71DXvJRZFW0KiuNvDSKLpFg=
+github.com/Rakiiii/goKLPartition v0.1.3/go.mod h1:8tGvNg2acNkqbkr1V8yNOBPt6zDcxma/+VC9KTLRFn8=
+github.com/Rakiiii/goKLPartition v0.1.4 h1:qF1P95Xtjc5uFT1q89d/w8NkfqT4gluAD/viLt9ebas=
+github.com/Rakiiii/goKLPartition v0.1.4/go.mod h1:8tGvNg2acNkqbkr1V8yNOBPt6zDcxma/+VC9KTLRFn8=
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=
 github.com/coreos/etcd v3.3.10+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
 github.com/coreos/go-etcd v2.0.0+incompatible/go.mod h1:Jez6KQU2B/sWsbdaef3ED8NzMklzPG4d5KIOhIy30Tk=
