@@ -130,12 +130,14 @@ func main() {
 		//checked for local max founding
 		if prevValue <= result.Value {
 			if(!ftimeFlag){
-			firstItTime = endTime.Sub(startTime)
+				firstItTime = endTime.Sub(startTime)
 		}
 			writeTime(firstItTime)
 			saveResult(&result, "result_"+os.Args[2])
 			return
 		}
+
+		prevValue = result.Value
 
 		if endTime.Sub(startTime).Milliseconds() > maxTime.Milliseconds() && typeFlag == "-t" {
 			itterationFlag = false
