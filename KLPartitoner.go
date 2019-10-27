@@ -129,7 +129,9 @@ func main() {
 
 		//checked for local max founding
 		if prevValue <= result.Value {
+			if(!ftimeFlag){
 			firstItTime = endTime.Sub(startTime)
+		}
 			writeTime(firstItTime)
 			saveResult(&result, "result_"+os.Args[2])
 			return
